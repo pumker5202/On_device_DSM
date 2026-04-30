@@ -1,4 +1,4 @@
-DMS v6 (졸음감지) - 압축 해제 후 실행
+#DMS v6 (졸음감지) - 압축 해제 후 실행
 
 1. 압축 해제
    tar -xzf dms_v6_board.tar.gz
